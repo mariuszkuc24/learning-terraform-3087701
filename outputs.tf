@@ -1,4 +1,4 @@
-#output "instance_ami" {
+output "instance_ami" {
   value = ami-06b78173e8e424fc5
 }
 
