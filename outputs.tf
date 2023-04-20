@@ -1,5 +1,5 @@
 #output "instance_ami" {
-  value = aws_instance.web.ami
+  value = "ami-06b78173e8e424fc5"
 }
 
 output "instance_arn" {
